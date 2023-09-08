@@ -11,7 +11,7 @@ This tutorial outlines the installation of a virtual machine running Windows 10,
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How To Configure osTicket, post-installation](https://www.youtube.com)
+- ### [YouTube: CMD Commands part 1](https://youtu.be/-1Sw9sHrPPk)
 
 <h2>Environments and Technologies Used</h2>
 
